@@ -1,8 +1,8 @@
 # REQUIRED CONFIG
-BOT_TOKEN = ""
-OWNER_ID = 0
-TELEGRAM_API = 0
-TELEGRAM_HASH = ""
+BOT_TOKEN = "7484974909:AAGynPiEigFxS4iZGl0MVSpApF-JfYFi0p4"
+OWNER_ID = 6742022802
+TELEGRAM_API = 22419004
+TELEGRAM_HASH = "34982b52c4a83c2af3ce8f4fe12fe4e1"
 # OPTIONAL CONFIG
 USER_SESSION_STRING = ""
 DOWNLOAD_DIR = "/usr/src/app/downloads/"
@@ -34,8 +34,8 @@ RCLONE_SERVE_PORT = 0
 RCLONE_SERVE_USER = ""
 RCLONE_SERVE_PASS = ""
 # JDownloader
-JD_EMAIL = ""
-JD_PASS = ""
+JD_EMAIL = "dolabani46@gmail.com"
+JD_PASS = "@Labani25"
 # Sabnzbd
 USENET_SERVERS = [
     {
@@ -58,7 +58,7 @@ USENET_SERVERS = [
     }
 ]
 # Update
-UPSTREAM_REPO = ""
+UPSTREAM_REPO = "https://github.com/ZxLbni/mirror-leech-telegram-bot/"
 UPSTREAM_BRANCH = "master"
 # Leech
 LEECH_SPLIT_SIZE = 0
